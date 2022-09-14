@@ -1,9 +1,13 @@
 <h1 align="center">Hi 👋, I'm William</h1>
 <h3 align="center">Software developer</h3>
 
+- 🎤 I am a passionate Software developer
+
 - 💬 Ask me about **react, vue, node**
 
 - 📫 How to reach me **dusenaberawilliam07@gmail.com**
+
+- ⚡ Fun fact: Techology is funny, we always learn new things
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
