@@ -1,5 +1,4 @@
 ### Hi there👋, I am William
-<h3 align="left">Software developer</h3>
 
 - 🎤 I am a passionate Software developer
 
