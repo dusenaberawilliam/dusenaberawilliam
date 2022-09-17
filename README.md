@@ -2,11 +2,11 @@
 
 - 🎤 I am a passionate Software developer
 
-- 💬 Ask me about **react, vue, node**
+- 💬 Ask me about **react, vuejs and nodejs**
 
 - 📫 How to reach me **dusenaberawilliam07@gmail.com**
 
-- ⚡ Fun fact: Techology is endless, we always learn new things
+- ⚡ Fun fact: Keep learning new things
 
 <h3 align="left">Find me:</h3>
 
