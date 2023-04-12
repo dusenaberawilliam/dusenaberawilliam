@@ -6,8 +6,6 @@
 
 - 📫 How to reach me **dusenaberawilliam07@gmail.com**
 
-- ⚡ Fun fact: Never stop learning
-
 <h3 align="left">Find me:</h3>
 
 <a href="https://www.linkedin.com/in/dusenabera-william-272618220/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
