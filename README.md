@@ -21,12 +21,3 @@
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="30"/> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="30"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="30"/> </a> 
 </p>
 
-### ⚙ &nbsp;GitHub Analytics
-
-<p align="left">
-<a href="https://github.com/dusenaberawilliam">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dusenaberawilliam&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dusenaberawilliam&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
-
