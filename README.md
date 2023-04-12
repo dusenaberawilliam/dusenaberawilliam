@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **dusenaberawilliam07@gmail.com**
 
-- ⚡ Fun fact: Keep learning new things
+- ⚡ Fun fact: Never stop learning
 
 <h3 align="left">Find me:</h3>
 
